@@ -9,7 +9,7 @@ export const evidence: EvidenceRecord[] = [
     publicationDate: '2016-04-27',
     article: 'Article 44',
     sourceUrl: 'https://eur-lex.europa.eu/eli/reg/2016/679/oj',
-    excerpt: 'Any transfer of personal data to a third country or international organisation shall take place only if the conditions laid down in this Chapter are complied with.',
+    excerpt: 'Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if the conditions laid down in this Chapter are complied with.',
     obligation: 'Transfers outside the EEA must comply with Chapter V safeguards, such as adequacy decisions or appropriate safeguards.',
   },
   {
@@ -30,8 +30,8 @@ export const evidence: EvidenceRecord[] = [
     sourceTitle: 'Personal Data Protection Act 2012',
     publicationDate: '2012-10-15',
     article: 'Section 26',
-    sourceUrl: 'https://sso.agc.gov.sg/Act/PDPA2012',
-    excerpt: 'An organisation shall not transfer any personal data to a country or territory outside Singapore except in accordance with requirements prescribed under this Act.',
+    sourceUrl: 'https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr26-',
+    excerpt: 'An organisation must not transfer any personal data to a country or territory outside Singapore except in accordance with requirements prescribed under this Act to ensure that organisations provide a standard of protection to personal data so transferred that is comparable to the protection under this Act.',
     obligation: 'Organizations transferring personal data overseas must ensure a standard of protection comparable to the PDPA through prescribed mechanisms.',
   },
   {
